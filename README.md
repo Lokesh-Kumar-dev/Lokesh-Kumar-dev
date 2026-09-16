@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Lokesh Kumar 👋
 
-<!--
-**Lokesh-Kumar-dev/Lokesh-Kumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Developer | Learning Git & Python
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **Git & GitHub collaboration and Python basics**
+- 🌱 I'm currently learning **Python, Git, VS Code**
+- 👯 I'm looking to collaborate on **Open source beginner projects**
+- 💬 Ask me about **Python, Git**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lokesh-kumar1237/) | plokeshgoud2003@gmail.com
+- ⚡ Fun fact: I pushed my first code to GitHub today!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+`Python` `Git` `GitHub` `VS Code` `SQL` `MANGODB` 
+
+### 📊 My GitHub Stats
+Started my dev journey in 2026
